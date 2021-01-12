@@ -40,19 +40,19 @@ By the end of the course, you will be able to ...
 | Class | Date      | Topics     | Assignment Due |
 |:-----:|:---------:|:---------------------:|:---:|
 |  - |  Tue, Jan 19 | **No Class - MLK Day** | - |
-|  1 |  Thu, Jan 21 | [Data Modeling & Entity Relationships]() | |
+|  1 |  Thu, Jan 21 | [Data Modeling & Entity Relationships]() | - |
 |  2 |  Tue, Jan 26 | [Introduction to SQL]() | [ERDs Worksheet]() |
 |  3 |  Thu, Jan 28 | [SQLAlchemy & Models]() | [Homework 1: sqlite3 Todo List]() |
-|  4 |  Tue, Feb 2  | [Class-based Forms]() | - |
+|  4 |  Tue, Feb 2  | [Class-based Forms]() | [Quiz 1: Models]()] |
 |  5 |  Thu, Feb 4  | [Review]() | [Homework 2: Events Site]() |
 |  6 |  Tue, Feb 9  | [Authentication & Login]() | - |
 |  7 |  Thu, Feb 11 | [More Authentication - Password Reset]() | [Homework 3: Makewiki]() |
 |  8 |  Tue, Feb 16 | [Testing 1]() | - |
-|  9 |  Thu, Feb 18 | [Testing 2]()] | [Homework 4: Reddit Flask]() |
-| 10 |  Tue, Feb 23 | [Blueprints]() | |
+|  9 |  Thu, Feb 18 | [Testing 2]() | [Homework 4: Reddit Flask]() |
+| 10 |  Tue, Feb 23 | [Blueprints]() |  |
 | 11 |  Thu, Feb 25 | [Message Flashing, Pagination, & Error Handling]() | [Homework 5: Testing]() <br>-AND-<br> [Final Project Proposal]() |
-| 12 |  Tue, Mar 2  | [Deployment]() | - |
-| 13 |  Tue, Mar 4  | Final Assessment | [Final Project]() |
+| 12 |  Tue, Mar 2  | [Deployment]() |  |
+| 13 |  Thu, Mar 4  | Final Assessment | [Final Project]() |
 
 
 ## Assignment Schedule 
