@@ -49,11 +49,7 @@ By the end of the course, you will be able to ...
 |  7 |  Thu, Feb 11 | [More Authentication - Password Reset]() | [Homework 3: Makewiki]() |
 |  8 |  Tue, Feb 16 | [Testing 1]() | - |
 |  9 |  Thu, Feb 18 | [Testing 2]() | [Homework 4: Reddit Flask]() |
-<<<<<<< HEAD
-| 10 |  Tue, Feb 23 | [Blueprints]() |  |
-=======
 | 10 |  Tue, Feb 23 | [Blueprints]() | |
->>>>>>> d2002161add26adaf947fe601b73f71018c7b0bb
 | 11 |  Thu, Feb 25 | [Message Flashing, Pagination, & Error Handling]() | [Homework 5: Testing]() <br>-AND-<br> [Final Project Proposal]() |
 | 12 |  Tue, Mar 2  | [Deployment]() |  |
 | 13 |  Thu, Mar 4  | Final Assessment | [Final Project]() |
