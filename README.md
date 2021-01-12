@@ -42,17 +42,17 @@ By the end of the course, you will be able to ...
 |  - |  Tue, Jan 19 | **No Class - MLK Day** | - |
 |  1 |  Thu, Jan 21 | [Data Modeling & Entity Relationships]() | - |
 |  2 |  Tue, Jan 26 | [Introduction to SQL]() | [ERDs Worksheet]() |
-|  3 |  Thu, Jan 28 | [SQLAlchemy & Models]() | [Homework 1: sqlite3 Todo List]() |
-|  4 |  Tue, Feb 2  | [Class-based Forms]() | <span class="quiz-link">[Quiz 1: SQL & Models]()</span> |
-|  5 |  Thu, Feb 4  | [Review]() | [Homework 2: Events Site]() |
-|  6 |  Tue, Feb 9  | [Authentication & Login]() | - |
-|  7 |  Thu, Feb 11 | [More Authentication - Password Reset]() | [Homework 3: Makewiki]() |
-|  8 |  Tue, Feb 16 | [Testing 1]() | <span class="quiz-link">[Quiz 2: Forms & Authentication]()</span> |
-|  9 |  Thu, Feb 18 | [Testing 2]() | [Homework 4: Reddit Flask]() |
+|  3 |  Thu, Jan 28 | [SQLAlchemy & Models]() | [Homework 1: sqlite3 Todo List](Assignments/todo-list.md) |
+|  4 |  Tue, Feb 2  | [Class-based Forms]() | <span class="quiz-link">[Quiz 1: SQL & Models](Assessments/quiz-1-study-guide.md)</span> |
+|  5 |  Thu, Feb 4  | [Review]() | [Homework 2: Events Site](Assignments/events-site.md) |
+|  6 |  Tue, Feb 9  | [Authentication & Authorization]() | - |
+|  7 |  Thu, Feb 11 | [More Authentication]() | [Homework 3: Makewiki](Assignments/makewiki.md) |
+|  8 |  Tue, Feb 16 | [Testing 1]() | <span class="quiz-link">[Quiz 2: Forms & Authentication](Assessments/quiz-2-study-guide.md)</span> |
+|  9 |  Thu, Feb 18 | [Testing 2]() | [Homework 4: Reddit Flask](Assignments/reddit-flask.md) |
 | 10 |  Tue, Feb 23 | [Blueprints]() | - |
-| 11 |  Thu, Feb 25 | [Message Flashing, Pagination, & Error Handling]() | [Homework 5: Testing]() <br>-AND-<br> [Final Project Proposal]() <br>-AND-<br><span class="quiz-link">[Quiz 3: Testing]()</span> |
-| 12 |  Tue, Mar 2  | [Deployment]() |  |
-| 13 |  Thu, Mar 4  | Final Assessment | [Final Project]() |
+| 11 |  Thu, Feb 25 | [Message Flashing, Pagination, & Error Handling]() | [Homework 5: Testing](Assignments/testing.md) <br>-AND-<br> [Final Project Proposal]() <br>-AND-<br><span class="quiz-link">[Quiz 3: Testing](Assessments/quiz-3-study-guide.md)</span> |
+| 12 |  Tue, Mar 2  | [Deployment]() | - |
+| 13 |  Thu, Mar 4  | Final Assessment | [Final Project](Assignments/final-project.md) |
 
 
 <!--
@@ -71,7 +71,7 @@ By the end of the course, you will be able to ...
 
 **To pass this course, you must**: 
 
-- Earn a score of 2 ("Basic") on the [Course Learning Outcomes Rubric]() for all but one assignment.
+- Earn a score of 2 ("Basic") on the [Course Learning Outcomes Rubric]() for all but one homework assignment.
 - Pass the final project by earning a rubric score of at least 2 ("Basic").
 - Pass the final assessment by earning a score of at least 70%, **OR** earn at least 70% on all 3 quizzes.
 - Abide by the Attendance Policy.

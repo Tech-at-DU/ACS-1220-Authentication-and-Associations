@@ -150,6 +150,6 @@ table>tbody>tr>td::before {
   color: white;
 }
 
-.quiz-link {
+.quiz-link a {
     color: maroon;
 }
