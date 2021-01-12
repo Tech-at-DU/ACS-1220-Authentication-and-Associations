@@ -40,18 +40,18 @@ By the end of the course, you will be able to ...
 | Class | Date      | Topics     | Assignment Due |
 |:-----:|:---------:|:---------------------:|:---:|
 |  - |  Tue, Jan 19 | **No Class - MLK Day** | - |
-|  1 |  Thu, Jan 21 | [Data Modeling & Entity Relationships]() | - |
-|  2 |  Tue, Jan 26 | [Introduction to SQL]() | [ERDs Worksheet]() |
-|  3 |  Thu, Jan 28 | [SQLAlchemy & Models]() | [Homework 1: sqlite3 Todo List](Assignments/todo-list.md) |
-|  4 |  Tue, Feb 2  | [Class-based Forms]() | <span class="quiz-link">[Quiz 1: SQL & Models](Assessments/quiz-1-study-guide.md)</span> |
-|  5 |  Thu, Feb 4  | [Review]() | [Homework 2: Events Site](Assignments/events-site.md) |
-|  6 |  Tue, Feb 9  | [Authentication & Authorization]() | - |
-|  7 |  Thu, Feb 11 | [More Authentication]() | [Homework 3: Makewiki](Assignments/makewiki.md) |
-|  8 |  Tue, Feb 16 | [Testing 1]() | <span class="quiz-link">[Quiz 2: Forms & Authentication](Assessments/quiz-2-study-guide.md)</span> |
-|  9 |  Thu, Feb 18 | [Testing 2]() | [Homework 4: Reddit Flask](Assignments/reddit-flask.md) |
-| 10 |  Tue, Feb 23 | [Blueprints]() | - |
-| 11 |  Thu, Feb 25 | [Message Flashing, Pagination, & Error Handling]() | [Homework 5: Testing](Assignments/testing.md) <br>-AND-<br> [Final Project Proposal]() <br>-AND-<br><span class="quiz-link">[Quiz 3: Testing](Assessments/quiz-3-study-guide.md)</span> |
-| 12 |  Tue, Mar 2  | [Deployment]() | - |
+|  1 |  Thu, Jan 21 | [Data Modeling & Entity Relationships](https://docs.google.com/presentation/d/1TRDw_un1ceZJZKDcWD2aqZNtX3ObT79OVErDrWx3U2Y/edit?usp=sharing) | - |
+|  2 |  Tue, Jan 26 | [Introduction to SQL](https://docs.google.com/presentation/d/1_orIZNWGvok4lht6QjdCGieZCHkcN3CmTH4aTllmXH8/edit?usp=sharing) | [ERDs Worksheet]() |
+|  3 |  Thu, Jan 28 | [SQLAlchemy & Models](https://docs.google.com/presentation/d/1k-nU_sdgI6lm2vy3Mj0vreLXKKruiDSUdhCtU0k3ars/edit?usp=sharing) | [Homework 1: sqlite3 Todo List](Assignments/todo-list.md) |
+|  4 |  Tue, Feb 2  | [Class-based Forms](https://docs.google.com/presentation/d/14WY-WzmeVxpeSKhipo3JpdWnRCXFOakS26IvSv0pT9o/edit?usp=sharing) | <span class="quiz-link">[Quiz 1: SQL & Models](Assessments/quiz-1-study-guide.md)</span> |
+|  5 |  Thu, Feb 4  | [Review](https://docs.google.com/presentation/d/17iq1yhgXEV14BjiT2QbJpoRQx8kNUpLBVdfXuqOIpfg/edit?usp=sharing) | [Homework 2: Events Site](Assignments/events-site.md) |
+|  6 |  Tue, Feb 9  | [Authentication & Authorization](https://docs.google.com/presentation/d/1jzun0xLcPxQl4XJobFqXzWoaf15POKlfEXVEZYHzpek/edit?usp=sharing) | - |
+|  7 |  Thu, Feb 11 | [More Authentication](https://docs.google.com/presentation/d/1XZvS-uTwqCSsOO7R5DNkrEOFTJcr3OMZ-1Ox2tgdxos/edit?usp=sharing) | [Homework 3: Makewiki](Assignments/makewiki.md) |
+|  8 |  Tue, Feb 16 | [Testing 1](https://docs.google.com/presentation/d/1FW0BgnRUwli2NmogMhZevoB8clAABL3Xrf49tzaNrEg/edit?usp=sharing) | <span class="quiz-link">[Quiz 2: Forms & Authentication](Assessments/quiz-2-study-guide.md)</span> |
+|  9 |  Thu, Feb 18 | [Testing 2](https://docs.google.com/presentation/d/1Si93cdRb9MFUQT_Jb2Kp1Fh-_51QTT22kmqOgoOLedg/edit?usp=sharing) | [Homework 4: Reddit Flask](Assignments/reddit-flask.md) |
+| 10 |  Tue, Feb 23 | [Blueprints](https://docs.google.com/presentation/d/17MAGBHICjWasx19zayqCA8soHxyGklMGw5hfKllMeW4/edit?usp=sharing) | - |
+| 11 |  Thu, Feb 25 | [Message Flashing, Pagination, & Error Handling](https://docs.google.com/presentation/d/1IjkyJBMVLsfArkFE2deyfDa54jOpBPk8YQ1gbXNAeRY/edit?usp=sharing) | [Homework 5: Testing](Assignments/testing.md) <br>-AND-<br> [Final Project Proposal]() <br>-AND-<br><span class="quiz-link">[Quiz 3: Testing](Assessments/quiz-3-study-guide.md)</span> |
+| 12 |  Tue, Mar 2  | [Deployment](https://docs.google.com/presentation/d/1hfp3poM5wFHqNT30Z8KdgREGUAFOtN-Bm9_ub9FMj-Q/edit?usp=sharing) | - |
 | 13 |  Thu, Mar 4  | Final Assessment | [Final Project](Assignments/final-project.md) |
 
 
