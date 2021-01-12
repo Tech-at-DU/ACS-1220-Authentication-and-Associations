@@ -43,18 +43,19 @@ By the end of the course, you will be able to ...
 |  1 |  Thu, Jan 21 | [Data Modeling & Entity Relationships]() | - |
 |  2 |  Tue, Jan 26 | [Introduction to SQL]() | [ERDs Worksheet]() |
 |  3 |  Thu, Jan 28 | [SQLAlchemy & Models]() | [Homework 1: sqlite3 Todo List]() |
-|  4 |  Tue, Feb 2  | [Class-based Forms]() | [Quiz 1: Models]()] |
+|  4 |  Tue, Feb 2  | [Class-based Forms]() | <span class="quiz-link">[Quiz 1: SQL & Models]()</span> |
 |  5 |  Thu, Feb 4  | [Review]() | [Homework 2: Events Site]() |
 |  6 |  Tue, Feb 9  | [Authentication & Login]() | - |
 |  7 |  Thu, Feb 11 | [More Authentication - Password Reset]() | [Homework 3: Makewiki]() |
-|  8 |  Tue, Feb 16 | [Testing 1]() | - |
+|  8 |  Tue, Feb 16 | [Testing 1]() | <span class="quiz-link">[Quiz 2: Forms & Authentication]()</span> |
 |  9 |  Thu, Feb 18 | [Testing 2]() | [Homework 4: Reddit Flask]() |
-| 10 |  Tue, Feb 23 | [Blueprints]() | |
-| 11 |  Thu, Feb 25 | [Message Flashing, Pagination, & Error Handling]() | [Homework 5: Testing]() <br>-AND-<br> [Final Project Proposal]() |
+| 10 |  Tue, Feb 23 | [Blueprints]() | - |
+| 11 |  Thu, Feb 25 | [Message Flashing, Pagination, & Error Handling]() | [Homework 5: Testing]() <br>-AND-<br> [Final Project Proposal]() <br>-AND-<br><span class="quiz-link">[Quiz 3: Testing]()</span> |
 | 12 |  Tue, Mar 2  | [Deployment]() |  |
 | 13 |  Thu, Mar 4  | Final Assessment | [Final Project]() |
 
 
+<!--
 ## Assignment Schedule 
 
 | Assignment | Date Assigned | Due Date | Submission Form |
@@ -63,6 +64,7 @@ By the end of the course, you will be able to ...
 | [Link to Assignment](makeschool.com) |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 | [Link to Assignment](makeschool.com) |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 | [Link to Assignment](makeschool.com) |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
+-->
 
 
 ## Evaluation
