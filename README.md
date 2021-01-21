@@ -19,7 +19,6 @@ In this course, students build on their knowledge of web servers by learning sev
 
 ## Learning Outcomes
 
-
 By the end of the course, you will be able to ...
 
 1. Diagram and implement resource associations using a SQL database.
@@ -37,22 +36,24 @@ By the end of the course, you will be able to ...
 
 **Class Times:** Tuesday and Thursday at 2:30–5:15pm (13 class sessions)
 
-| Class | Date      | Topics     | Assignment Due |
-|:-----:|:---------:|:---------------------:|:---:|
+All assignments are due **by the start of class (9:30am or 2:45pm)** on the day specified. 
+
+| Class | Date      | Topics     | Assignment Due | Assessment Due |
+|:-----:|:---------:|:---------------------:|:---:|:---:|
 |  - |  Tue, Jan 19 | **No Class - MLK Day** | - |
 |  1 |  Thu, Jan 21 | [Data Modeling & Entity Relationships](https://docs.google.com/presentation/d/1TRDw_un1ceZJZKDcWD2aqZNtX3ObT79OVErDrWx3U2Y/edit?usp=sharing) | - |
-|  2 |  Tue, Jan 26 | [Introduction to SQL](https://docs.google.com/presentation/d/1_orIZNWGvok4lht6QjdCGieZCHkcN3CmTH4aTllmXH8/edit?usp=sharing) | [ERDs Worksheet]() |
+|  2 |  Tue, Jan 26 | [Introduction to SQL](https://docs.google.com/presentation/d/1_orIZNWGvok4lht6QjdCGieZCHkcN3CmTH4aTllmXH8/edit?usp=sharing) | [ERDs Worksheet](https://www.gradescope.com/courses/228465/assignments/937103) |
 |  3 |  Thu, Jan 28 | [SQLAlchemy & Models](https://docs.google.com/presentation/d/1k-nU_sdgI6lm2vy3Mj0vreLXKKruiDSUdhCtU0k3ars/edit?usp=sharing) | [Homework 1: sqlite3 Todo List](Assignments/todo-list.md) |
-|  4 |  Tue, Feb 2  | [Class-based Forms](https://docs.google.com/presentation/d/14WY-WzmeVxpeSKhipo3JpdWnRCXFOakS26IvSv0pT9o/edit?usp=sharing) | <span class="quiz-link">[Quiz 1: SQL & Models](Assessments/quiz-1-study-guide.md)</span> |
+|  4 |  Tue, Feb 2  | [Class-based Forms](https://docs.google.com/presentation/d/14WY-WzmeVxpeSKhipo3JpdWnRCXFOakS26IvSv0pT9o/edit?usp=sharing) | - | [Quiz 1: SQL & Models](Assessments/quiz-1-study-guide.md) |
 |  5 |  Thu, Feb 4  | [Review](https://docs.google.com/presentation/d/17iq1yhgXEV14BjiT2QbJpoRQx8kNUpLBVdfXuqOIpfg/edit?usp=sharing) | [Homework 2: Events Site](Assignments/events-site.md) |
 |  6 |  Tue, Feb 9  | [Authentication & Authorization](https://docs.google.com/presentation/d/1jzun0xLcPxQl4XJobFqXzWoaf15POKlfEXVEZYHzpek/edit?usp=sharing) | - |
 |  7 |  Thu, Feb 11 | [More Authentication](https://docs.google.com/presentation/d/1XZvS-uTwqCSsOO7R5DNkrEOFTJcr3OMZ-1Ox2tgdxos/edit?usp=sharing) | [Homework 3: Makewiki](Assignments/makewiki.md) |
-|  8 |  Tue, Feb 16 | [Testing 1](https://docs.google.com/presentation/d/1FW0BgnRUwli2NmogMhZevoB8clAABL3Xrf49tzaNrEg/edit?usp=sharing) | <span class="quiz-link">[Quiz 2: Forms & Authentication](Assessments/quiz-2-study-guide.md)</span> |
+|  8 |  Tue, Feb 16 | [Testing 1](https://docs.google.com/presentation/d/1FW0BgnRUwli2NmogMhZevoB8clAABL3Xrf49tzaNrEg/edit?usp=sharing) | - | [Quiz 2: Forms & Authentication](Assessments/quiz-2-study-guide.md) |
 |  9 |  Thu, Feb 18 | [Testing 2](https://docs.google.com/presentation/d/1Si93cdRb9MFUQT_Jb2Kp1Fh-_51QTT22kmqOgoOLedg/edit?usp=sharing) | [Homework 4: Reddit Flask](Assignments/reddit-flask.md) |
 | 10 |  Tue, Feb 23 | [Blueprints](https://docs.google.com/presentation/d/17MAGBHICjWasx19zayqCA8soHxyGklMGw5hfKllMeW4/edit?usp=sharing) | - |
-| 11 |  Thu, Feb 25 | [Message Flashing, Pagination, & Error Handling](https://docs.google.com/presentation/d/1IjkyJBMVLsfArkFE2deyfDa54jOpBPk8YQ1gbXNAeRY/edit?usp=sharing) | [Homework 5: Testing](Assignments/testing.md) <br>-AND-<br> [Final Project Proposal]() <br>-AND-<br><span class="quiz-link">[Quiz 3: Testing](Assessments/quiz-3-study-guide.md)</span> |
+| 11 |  Thu, Feb 25 | [Message Flashing, Pagination, & Error Handling](https://docs.google.com/presentation/d/1IjkyJBMVLsfArkFE2deyfDa54jOpBPk8YQ1gbXNAeRY/edit?usp=sharing) | [Homework 5: Testing](Assignments/testing.md) <br>-AND-<br> [Final Project Proposal]() | [Quiz 3: Testing](Assessments/quiz-3-study-guide.md) |
 | 12 |  Tue, Mar 2  | [Deployment](https://docs.google.com/presentation/d/1hfp3poM5wFHqNT30Z8KdgREGUAFOtN-Bm9_ub9FMj-Q/edit?usp=sharing) | - |
-| 13 |  Thu, Mar 4  | Final Assessment | [Final Project](Assignments/final-project.md) |
+| 13 |  Thu, Mar 4  | Finals | [Final Project](Assignments/final-project.md) | Final Assessment (Cumulative) |
 
 
 <!--
@@ -92,6 +93,9 @@ We will be using [Gradescope](gradescope.com), which allows us to provide fast a
 As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
 
 Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
+
+## Late Submission Policy
+
 
 
 ## Class Recordings
