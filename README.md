@@ -94,13 +94,21 @@ As soon as grades are posted, you will be notified immediately so that you can l
 
 Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
 
+
 ## Late Submission Policy
 
+In this class, we will be using student submissions as material for in-class discussions and activities, such as peer code reviews. **If you do not submit your homework assignments by the deadline, you will miss out on these opportunities.** However, no explicit late penalty will be applied for submissions under 1 week late. You may also re-submit your work to correct errors and increase your homework score.
+
+Assignments or corrections submitted **more than 7 days (1 week) late** will **not** be accepted.
+
+The **absolute last day** to submit any assignment will be **Friday, March 5 at 11:59 PM**. After that, no other extensions may be granted even in extenuating circumstances due to a hard deadline for submitting grades.
+
+If you require accommodations or have extenuating circumstances such as prolonged illness, please contact your instructor to request an extension.
 
 
 ## Class Recordings
 
-All class recordings will be available [here]() no later than 24 hours after the class session. For privacy reasons, please do not share the recordings outside of the Make School student body.
+All class recordings will be available [here](https://drive.google.com/drive/folders/1PwxOS92ryVH1xQ6jdVcZdc0j7VmnraH9) no later than 24 hours after the class session. For privacy reasons, please do not share the recordings outside of the Make School student body.
 
 
 ## Attendance Policy
