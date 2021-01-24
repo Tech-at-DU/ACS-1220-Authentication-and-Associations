@@ -1,8 +1,8 @@
-# (Practice) Quiz 1: SQL & Models
+# Practice Quiz 1: SQL & Models
 
 You should be able to...
 
-- **ERDS**:
+- **ERDs**:
     - Given a scenario involving several entities, identify what type of relationships exist: either **One-to-Many**, **Many-to-Many**, or **One-to-One**.
     - Identify the **Primary Key** and **Foreign Key(s)** on a given entity relationship.
     - Identify the correct **Entity Relationship Diagram** that matches a given scenario.
