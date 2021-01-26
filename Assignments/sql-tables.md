@@ -33,7 +33,7 @@ After you create a table and add data, write the following queries:
 
 ## Stretch Challenge
 
-If you'd like to enhance your understanding of SQL commands and terminology, you can follow [this W3Schools tutorial](w3schools.com/sql/sql_intro.asp) which covers the basics.
+If you'd like to enhance your understanding of SQL commands and terminology, you can follow [this W3Schools tutorial](https://w3schools.com/sql/sql_intro.asp) which covers the basics.
 
 ## Submission
 
