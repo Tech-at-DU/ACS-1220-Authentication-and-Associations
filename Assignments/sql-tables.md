@@ -31,6 +31,10 @@ After you create a table and add data, write the following queries:
 1. Select all **songs** on albums published between 1970 and 1980. (Hint: Use a table join.)
 1. Select all albums with names containing "California".
 
+## Stretch Challenge
+
+If you'd like to enhance your understanding of SQL commands and terminology, you can follow [this W3Schools tutorial](w3schools.com/sql/sql_intro.asp) which covers the basics.
+
 ## Submission
 
 To submit this assignment, save your code in a file called `songs_albums.sql` and submit it to Gradescope.
