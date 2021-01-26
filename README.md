@@ -72,7 +72,7 @@ All assignments are due **by the start of class (9:30am or 2:45pm)** on the day 
 
 **To pass this course, you must**: 
 
-- Earn a score of 2 ("Basic") on the [Course Learning Outcomes Rubric]() for all but one homework assignment.
+- Earn at least a score of 2 ("Basic") for all but one homework assignment.
 - Pass the final project by earning a rubric score of at least 2 ("Basic").
 - Pass the final assessment by earning a score of at least 70%, **OR** earn at least 70% on all 3 quizzes.
 - Abide by the Attendance Policy.
