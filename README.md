@@ -44,8 +44,8 @@ All assignments are due **by the start of class (9:30am or 2:45pm)** on the day 
 |  1 |  Thu, Jan 21 | [Data Modeling & Entity Relationships](https://docs.google.com/presentation/d/1TRDw_un1ceZJZKDcWD2aqZNtX3ObT79OVErDrWx3U2Y/edit?usp=sharing) | - |
 |  2 |  Tue, Jan 26 | [Introduction to SQL](https://docs.google.com/presentation/d/1_orIZNWGvok4lht6QjdCGieZCHkcN3CmTH4aTllmXH8/edit?usp=sharing) | [ERDs Worksheet](https://www.gradescope.com/courses/228465/assignments/937103) |
 |  3 |  Thu, Jan 28 | [SQLAlchemy & Models](https://docs.google.com/presentation/d/1k-nU_sdgI6lm2vy3Mj0vreLXKKruiDSUdhCtU0k3ars/edit?usp=sharing) | [Homework 1: SQL Tables](Assignments/sql-tables.md) |
-|  4 |  Tue, Feb 2  | [Class-based Forms](https://docs.google.com/presentation/d/14WY-WzmeVxpeSKhipo3JpdWnRCXFOakS26IvSv0pT9o/edit?usp=sharing) | - | [Practice Quiz 1: SQL & Models](Assessments/quiz-1-study-guide.md) |
-|  5 |  Thu, Feb 4  | [Review](https://docs.google.com/presentation/d/17iq1yhgXEV14BjiT2QbJpoRQx8kNUpLBVdfXuqOIpfg/edit?usp=sharing) | [Homework 2: Events Site](Assignments/events-site.md) |
+|  4 |  Tue, Feb 2  | [Class-based Forms](https://docs.google.com/presentation/d/14WY-WzmeVxpeSKhipo3JpdWnRCXFOakS26IvSv0pT9o/edit?usp=sharing) | - |  |
+|  5 |  Thu, Feb 4  | [Review](https://docs.google.com/presentation/d/17iq1yhgXEV14BjiT2QbJpoRQx8kNUpLBVdfXuqOIpfg/edit?usp=sharing) | [Homework 2: Events Site](Assignments/events-site.md) | [Practice Quiz 1: SQL & Models](Assessments/quiz-1-study-guide.md) |
 |  6 |  Tue, Feb 9  | [Authentication & Authorization](https://docs.google.com/presentation/d/1jzun0xLcPxQl4XJobFqXzWoaf15POKlfEXVEZYHzpek/edit?usp=sharing) | - |
 |  7 |  Thu, Feb 11 | [More Authentication](https://docs.google.com/presentation/d/1XZvS-uTwqCSsOO7R5DNkrEOFTJcr3OMZ-1Ox2tgdxos/edit?usp=sharing) | [Homework 3: Makewiki](Assignments/makewiki.md) |
 |  8 |  Tue, Feb 16 | [Testing 1](https://docs.google.com/presentation/d/1FW0BgnRUwli2NmogMhZevoB8clAABL3Xrf49tzaNrEg/edit?usp=sharing) | - | [Practice Quiz 2: Forms & Authentication](Assessments/quiz-2-study-guide.md) |
