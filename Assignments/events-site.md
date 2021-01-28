@@ -45,7 +45,17 @@ Navigate to `events_app/routes.py` and take a look at the existing routes. They 
 
 ## Stretch Challenges
 
-For more practice using SQLAlchemy, check out the [Flask-Django Independent Study Rookie Materials](https://github.com/flask-django-independent-study/rookie) put together by Sid & Starlight! :) 
+For more practice using SQLAlchemy, check out the [Flask-Django Independent Study Rookie Materials](https://github.com/flask-django-independent-study/rookie) put together by Sid & Starlight! :)
+
+## Resources
+
+- [SQLAlchemy Relationship Patterns](https://docs.sqlalchemy.org/en/13/orm/basic_relationships.html) - A comprehensive guide on how to construct models with One-to-Many, One-to-One, and Many-to-Many relationships.
+- [Declaring Models](https://flask-sqlalchemy.palletsprojects.com/en/2.x/models/) - A shorter, but still useful guide.
+- [Filter Operations](https://www.tutorialspoint.com/sqlalchemy/sqlalchemy_orm_filter_operators.htm)
+- [Getting Started with Flask-SQLAlchemy [VIDEO]](https://www.youtube.com/watch?v=jTiyt6W1Qpo) - Short, to-the-point guide to get you started
+- [Full-Featured Web App Tutorial [VIDEO]](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - A longer project, but provides a lot of context on how various concepts fit together.
+
+
 
 ## Submission
 
