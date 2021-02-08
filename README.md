@@ -36,7 +36,7 @@ By the end of the course, you will be able to ...
 
 **Class Times:** Tuesday and Thursday at 2:30–5:15pm (13 class sessions)
 
-All assignments are due **by the start of class (9:30am or 2:45pm)** on the day specified. 
+All assignments are due **by midnight (11:59pm PST)** on the day specified. 
 
 | Class | Date      | Topics     | Assignment Due | Assessment Due |
 |:-----:|:---------:|:---------------------:|:---:|:---:|
@@ -47,7 +47,7 @@ All assignments are due **by the start of class (9:30am or 2:45pm)** on the day 
 |  4 |  Tue, Feb 2  | [More Models + Review](https://docs.google.com/presentation/d/17MAGBHICjWasx19zayqCA8soHxyGklMGw5hfKllMeW4/edit) | - |  |
 |  5 |  Thu, Feb 4  | [Class-based Forms](https://docs.google.com/presentation/d/14WY-WzmeVxpeSKhipo3JpdWnRCXFOakS26IvSv0pT9o/edit?usp=sharing) | [Homework 2: Events Site](Assignments/events-site.md) | [Practice Quiz 1: SQL & Models](Assessments/quiz-1-study-guide.md) <br><em>Due by Friday, Feb 5 @ 11:59pm |
 |  6 |  Tue, Feb 9  | [More Forms](https://docs.google.com/presentation/d/17iq1yhgXEV14BjiT2QbJpoRQx8kNUpLBVdfXuqOIpfg/edit?usp=sharing) | - |
-|  7 |  Thu, Feb 11 | [Authentication & Authorization](https://docs.google.com/presentation/d/1jzun0xLcPxQl4XJobFqXzWoaf15POKlfEXVEZYHzpek/edit?usp=sharing) | [Homework 3: Grocery Store](Assignments/grocery-store.md) |
+|  7 |  Thu, Feb 11 | [Authentication & Authorization](https://docs.google.com/presentation/d/1jzun0xLcPxQl4XJobFqXzWoaf15POKlfEXVEZYHzpek/edit?usp=sharing) | [Homework 3: Grocery Store](Assignments/grocery-store.md)<br>_Due Friday, Feb 12_ |
 |  8 |  Tue, Feb 16 | [More Authentication](https://docs.google.com/presentation/d/1XZvS-uTwqCSsOO7R5DNkrEOFTJcr3OMZ-1Ox2tgdxos/edit?usp=sharing) | - | [Practice Quiz 2: Forms & Authentication](Assessments/quiz-2-study-guide.md) |
 |  9 |  Thu, Feb 18 | [Testing 1](https://docs.google.com/presentation/d/1FW0BgnRUwli2NmogMhZevoB8clAABL3Xrf49tzaNrEg/edit?usp=sharing) | [Homework 4: Reddit Flask](Assignments/reddit-flask.md) |
 | 10 |  Tue, Feb 23 | [Testing 2](https://docs.google.com/presentation/d/1Si93cdRb9MFUQT_Jb2Kp1Fh-_51QTT22kmqOgoOLedg/edit?usp=sharing) | - |
