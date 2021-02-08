@@ -11,9 +11,9 @@ Scoring for this project is as follows:
 | Score | Rating | Correctness | Code Quality |
 | :---: | :----: | :---------: | :----------: |
 | **1** | **Needs Improvement** | Less than two of the form routes are completed, or form routes are not functional. | Code is messy and hard to follow. Code includes TODOs or does not include docstrings for most routes. |
-| **2** | **Basic** | Forms are present, and at least two of the form routes are completed and functional. | Some routes have code that is messy and hard to follow. Some routes do not include docstrings. |
-| **3** | **Proficient** | All routes are functional and produce the expected result. | Code is clear and easy to follow. Submitted code does not include TODOs. Nearly all functions have docstrings. |
-| **4** | **Advanced** | Stretch challenges are complete and demonstrate an advanced understanding of the concepts presented. | Code is extensible and may utilize helper functions, classes, or advanced data structures to aid in readability. |
+| **2** | **Basic** | Forms are present, and at least one of the form routes is completed and functional. | Some routes have code that is messy and hard to follow. Some routes do not include docstrings. |
+| **3** | **Proficient** | (Almost) all routes are functional and produce the expected result. Minor errors may be present. | Code is clear and easy to follow. Submitted code does not include TODOs. Nearly all functions have docstrings. |
+| **4** | **Advanced** | All routes are functional and produce the expected result.Stretch challenges are complete and demonstrate an advanced understanding of the concepts presented. | Code is extensible and may utilize helper functions, classes, or advanced data structures to aid in readability. |
 
 ## Setup
 
