@@ -1,4 +1,4 @@
-# Quiz 2: Forms & Authentication
+# Quiz 2: Forms & Models
 
 You should be able to...
 
