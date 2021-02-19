@@ -10,8 +10,8 @@ Scoring for this project is as follows:
 | :---: | :----: | :---------: | :----------: |
 | **1** | **Needs Improvement** | Less than two of the form routes are completed, or form routes are not functional. | Code is messy and hard to follow. Code includes TODOs or does not include docstrings for most routes. |
 | **2** | **Basic** | Route tests partially test the intended functionality. All tests pass. | Some routes have code that is messy and hard to follow. Some routes do not include docstrings. |
-| **3** | **Proficient** | (Almost) all tests are functional and test the desired functionality. Minor errors or test failures may be present. | Code is clear and easy to follow. Submitted code does not include TODOs. Nearly all functions have docstrings. |
-| **4** | **Advanced** | All tests are functional and test the desired functionality.Stretch challenges are complete and demonstrate an advanced understanding of the concepts presented. | Code is extensible and may utilize helper functions, classes, or advanced data structures to aid in readability. |
+| **3** | **Proficient** | (Almost) all tests pass and test the desired functionality. Minor errors or test failures may be present. | Code is clear and easy to follow. Submitted code does not include TODOs. Nearly all functions have docstrings. |
+| **4** | **Advanced** | All tests pass and test the desired functionality. Stretch challenges are complete and demonstrate an advanced understanding of the concepts presented. | Code is extensible and may utilize helper functions, classes, or advanced data structures to aid in readability. |
 
 ## Setup
 
