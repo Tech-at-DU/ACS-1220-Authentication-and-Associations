@@ -51,7 +51,7 @@ All assignments are due **by midnight (11:59pm PST)** on the day specified.
 |  8 |  Tue, Feb 16 | [More Authentication](https://docs.google.com/presentation/d/1XZvS-uTwqCSsOO7R5DNkrEOFTJcr3OMZ-1Ox2tgdxos/edit?usp=sharing) | - | [Practice Quiz 2: Forms & Models](Assessments/quiz-2-study-guide.md) |
 |  9 |  Thu, Feb 18 | [Testing 1](https://docs.google.com/presentation/d/1FW0BgnRUwli2NmogMhZevoB8clAABL3Xrf49tzaNrEg/edit?usp=sharing) | [Homework 4: Grocery Store Pt. 2](Assignments/grocery-store-part-2.md) |
 | 10 |  Tue, Feb 23 | [Testing 2](https://docs.google.com/presentation/d/1Si93cdRb9MFUQT_Jb2Kp1Fh-_51QTT22kmqOgoOLedg/edit?usp=sharing) | - |
-| 11 |  Thu, Feb 25 | [Message Flashing, Pagination, & Error Handling](https://docs.google.com/presentation/d/1IjkyJBMVLsfArkFE2deyfDa54jOpBPk8YQ1gbXNAeRY/edit?usp=sharing) | [Homework 5: Testing](Assignments/testing.md) <br>-AND-<br> [Final Project Proposal]() | [Practice Quiz 3: Testing](Assessments/quiz-3-study-guide.md) |
+| 11 |  Thu, Feb 25 | [Message Flashing, Pagination, & Error Handling](https://docs.google.com/presentation/d/1IjkyJBMVLsfArkFE2deyfDa54jOpBPk8YQ1gbXNAeRY/edit?usp=sharing) | [Homework 5: Testing](Assignments/testing.md) <br>-AND-<br> [Final Project Proposal](https://www.gradescope.com/courses/228465/assignments/1046879/) | [Practice Quiz 3: Testing](Assessments/quiz-3-study-guide.md) |
 | 12 |  Tue, Mar 2  | [Deployment](https://docs.google.com/presentation/d/1hfp3poM5wFHqNT30Z8KdgREGUAFOtN-Bm9_ub9FMj-Q/edit?usp=sharing) | - |
 | 13 |  Thu, Mar 4  | Finals | [Final Project](Assignments/final-project.md) | Final Assessment (Cumulative) |
 
