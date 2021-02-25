@@ -27,6 +27,10 @@ It is **not** acceptable to simple "re-skin" an existing homework assignment or 
 
 If you have an existing front-end that you've created for another class project, you can absolutely turn that into a final project submission. Just take your HTML files and turn each of them into a template, then start filling in the models, routes, etc. You can also opt to "level up" an existing Flask project to incorporate models, forms, auth, & tests.
 
+## Video Demo
+
+When you're finished implementing your project, you will need to submit a ~3 minute video demonstrating your working project and explaining your code. You can use the [QuickTime program](https://support.apple.com/guide/quicktime-player/welcome/mac) to record a screenshare to submit for this.
+
 ## Rubric
 
 Your submission will be evaluated according to the following rubric.
@@ -41,10 +45,6 @@ Your submission will be evaluated according to the following rubric.
 | **Code Quality** | Code is messy and hard to follow. Variables/functions are inappropriately named. | Code contains appropriate variable/function names, and follows good Python conventions. | Code is clear and easy to follow, and includes docstrings & comments. | Code is extensible and may utilize helper functions, classes, or advanced data structures to aid in readability. |
 
 Your project will receive a passing grade if you score an average of at least 2 ("Basic") across all rubric items.
-
-## Video Demo
-
-When you're finished implementing your project, you will need to submit a ~3 minute video demonstrating your working project and explaining your code. You can use the [QuickTime program](https://support.apple.com/guide/quicktime-player/welcome/mac) to record a screenshare to submit for this.
 
 ## Submission
 
