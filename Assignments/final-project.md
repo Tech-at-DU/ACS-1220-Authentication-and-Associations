@@ -42,6 +42,10 @@ Your submission will be evaluated according to the following rubric.
 
 Your project will receive a passing grade if you score an average of at least 2 ("Basic") across all rubric items.
 
+## Video Demo
+
+When you're finished implementing your project, you will need to submit a ~3 minute video demonstrating your working project and explaining your code. You can use the [QuickTime program](https://support.apple.com/guide/quicktime-player/welcome/mac) to record a screenshare to submit for this.
+
 ## Submission
 
 Please submit your work using [Gradescope](https://gradescope.com).
