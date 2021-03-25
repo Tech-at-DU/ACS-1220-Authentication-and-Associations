@@ -36,24 +36,26 @@ By the end of the course, you will be able to ...
 
 **Class Times:** Tuesday and Thursday at 2:30–5:15pm (13 class sessions)
 
-All assignments are due **by midnight (11:59pm PST)** on the day specified. 
+All assignments are due **by midnight (11:59pm PST)** on the **second** day (either Tuesday or Thursday) specified. 
 
-| Class | Date      | Topics     | Assignment Due | Assessment Due |
-|:-----:|:---------:|:---------------------:|:---:|:---:|
-|  - |  Tue, Jan 19 | **No Class - MLK Day** | - |
-|  1 |  Thu, Jan 21 | [Data Modeling & Entity Relationships](https://docs.google.com/presentation/d/1TRDw_un1ceZJZKDcWD2aqZNtX3ObT79OVErDrWx3U2Y/edit?usp=sharing) | - |
-|  2 |  Tue, Jan 26 | [Introduction to SQL](https://docs.google.com/presentation/d/1_orIZNWGvok4lht6QjdCGieZCHkcN3CmTH4aTllmXH8/edit?usp=sharing) | [ERDs Worksheet](https://www.gradescope.com/courses/228465/assignments/937103) |
-|  3 |  Thu, Jan 28 | [SQLAlchemy & Models](https://docs.google.com/presentation/d/1k-nU_sdgI6lm2vy3Mj0vreLXKKruiDSUdhCtU0k3ars/edit?usp=sharing) | [Homework 1: SQL Tables](Assignments/sql-tables.md) |
-|  4 |  Tue, Feb 2  | [More Models + Review](https://docs.google.com/presentation/d/17MAGBHICjWasx19zayqCA8soHxyGklMGw5hfKllMeW4/edit) | - |  |
-|  5 |  Thu, Feb 4  | [Class-based Forms](https://docs.google.com/presentation/d/14WY-WzmeVxpeSKhipo3JpdWnRCXFOakS26IvSv0pT9o/edit?usp=sharing) | [Homework 2: Events Site](Assignments/events-site.md) | [Practice Quiz 1: SQL & Models](Assessments/quiz-1-study-guide.md) <br><em>Due by Friday, Feb 5 @ 11:59pm |
-|  6 |  Tue, Feb 9  | [More Forms](https://docs.google.com/presentation/d/17iq1yhgXEV14BjiT2QbJpoRQx8kNUpLBVdfXuqOIpfg/edit?usp=sharing) | - |
-|  7 |  Thu, Feb 11 | [Authentication & Authorization](https://docs.google.com/presentation/d/1jzun0xLcPxQl4XJobFqXzWoaf15POKlfEXVEZYHzpek/edit?usp=sharing) | [Homework 3: Grocery Store](Assignments/grocery-store.md)<br>_Due by Friday, Feb 12 @ 11:59pm_ |
-|  8 |  Tue, Feb 16 | [More Authentication](https://docs.google.com/presentation/d/1XZvS-uTwqCSsOO7R5DNkrEOFTJcr3OMZ-1Ox2tgdxos/edit?usp=sharing) | - | [Practice Quiz 2: Forms & Models](Assessments/quiz-2-study-guide.md) |
-|  9 |  Thu, Feb 18 | [Testing 1](https://docs.google.com/presentation/d/1FW0BgnRUwli2NmogMhZevoB8clAABL3Xrf49tzaNrEg/edit?usp=sharing) | [Homework 4: Grocery Store Pt. 2](Assignments/grocery-store-part-2.md) |
-| 10 |  Tue, Feb 23 | [Testing 2](https://docs.google.com/presentation/d/1Si93cdRb9MFUQT_Jb2Kp1Fh-_51QTT22kmqOgoOLedg/edit?usp=sharing) | - |
-| 11 |  Thu, Feb 25 | [Message Flashing, Pagination, & Error Handling](https://docs.google.com/presentation/d/1IjkyJBMVLsfArkFE2deyfDa54jOpBPk8YQ1gbXNAeRY/edit?usp=sharing) | [Homework 5: Testing](Assignments/testing.md) <br>-AND-<br> [Final Project Proposal](https://www.gradescope.com/courses/228465/assignments/1046879/) | [Practice Quiz 3: Authentication & Testing](Assessments/quiz-3-study-guide.md) |
-| 12 |  Tue, Mar 2  | [Deployment](https://docs.google.com/presentation/d/1hfp3poM5wFHqNT30Z8KdgREGUAFOtN-Bm9_ub9FMj-Q/edit?usp=sharing) | - |
-| 13 |  Thu, Mar 4  | Finals | [Final Project](Assignments/final-project.md) | Final Assessment (Cumulative) |
+
+| Class | Section A Date | Section B Date | Topics     | Assignment Due | Assessment Due |
+|:-----:|:---------:|:---------------------:|:---:|:---:|:---:|
+|  1 | Mon, Mar 29 | Tue, Mar 30 | [Data Modeling & Entity Relationships](https://docs.google.com/presentation/d/1TRDw_un1ceZJZKDcWD2aqZNtX3ObT79OVErDrWx3U2Y/edit?usp=sharing) | - |
+|  - | Wed, Mar 31 | Thu, Apr 1 | **No Class - Cesar Chavez Day** | - |
+|  2 | Mon, Apr 5 | Tue, Apr 6 | [Introduction to SQL](https://docs.google.com/presentation/d/1_orIZNWGvok4lht6QjdCGieZCHkcN3CmTH4aTllmXH8/edit?usp=sharing) | [ERDs Worksheet](https://www.gradescope.com/courses/228465/assignments/937103) |
+|  3 | Wed, Apr 7 | Thu, Apr 8 | [SQLAlchemy & Models](https://docs.google.com/presentation/d/1k-nU_sdgI6lm2vy3Mj0vreLXKKruiDSUdhCtU0k3ars/edit?usp=sharing) | [Homework 1: SQL Tables](Assignments/sql-tables.md) |
+|  4 | Mon, Apr 12 | Tue, Apr 13 | [More Models + Review](https://docs.google.com/presentation/d/17MAGBHICjWasx19zayqCA8soHxyGklMGw5hfKllMeW4/edit) | - |  |
+|  5 | Wed, Apr 14 | Thu, Apr 15 | [Class-based Forms](https://docs.google.com/presentation/d/14WY-WzmeVxpeSKhipo3JpdWnRCXFOakS26IvSv0pT9o/edit?usp=sharing) | [Homework 2: Events Site](Assignments/events-site.md) | [Practice Quiz 1: SQL & Models](Assessments/quiz-1-study-guide.md) |
+|  6 | Mon, Apr 19 | Tue, Apr 20 | [More Forms](https://docs.google.com/presentation/d/17iq1yhgXEV14BjiT2QbJpoRQx8kNUpLBVdfXuqOIpfg/edit?usp=sharing) | - |
+|  7 | Wed, Apr 21 | Thu, Apr 22 | [Authentication & Authorization](https://docs.google.com/presentation/d/1jzun0xLcPxQl4XJobFqXzWoaf15POKlfEXVEZYHzpek/edit?usp=sharing) | [Homework 3: Grocery Store](Assignments/grocery-store.md)|
+|  8 | Mon, Apr 26 | Tue, Apr 27 | [More Authentication](https://docs.google.com/presentation/d/1XZvS-uTwqCSsOO7R5DNkrEOFTJcr3OMZ-1Ox2tgdxos/edit?usp=sharing) | - | [Practice Quiz 2: Forms & Models](Assessments/quiz-2-study-guide.md) |
+|  9 | Wed, Apr 28 | Thu, Apr 29 | [Testing 1](https://docs.google.com/presentation/d/1FW0BgnRUwli2NmogMhZevoB8clAABL3Xrf49tzaNrEg/edit?usp=sharing) | [Homework 4: Grocery Store Pt. 2](Assignments/grocery-store-part-2.md) |
+| 10 | Mon, May 3 | Tue, May 4 | [Testing 2](https://docs.google.com/presentation/d/1Si93cdRb9MFUQT_Jb2Kp1Fh-_51QTT22kmqOgoOLedg/edit?usp=sharing) | - |
+| 11 | Wed, May 5 | Thu, May 6 | [Message Flashing, Pagination, & Error Handling](https://docs.google.com/presentation/d/1IjkyJBMVLsfArkFE2deyfDa54jOpBPk8YQ1gbXNAeRY/edit?usp=sharing) | [Homework 5: Testing](Assignments/testing.md) <br>-AND-<br> [Final Project Proposal](https://www.gradescope.com/courses/228465/assignments/1046879/) | [Practice Quiz 3: Authentication & Testing](Assessments/quiz-3-study-guide.md) |
+| 12 | Mon, May 10 | Tue, May 11  | [Deployment](https://docs.google.com/presentation/d/1hfp3poM5wFHqNT30Z8KdgREGUAFOtN-Bm9_ub9FMj-Q/edit?usp=sharing) | - |
+| 13 | Wed, May 12 | Thu, May 13 | Finals | [Final Project](Assignments/final-project.md) | Final Assessment (Cumulative) |
+
 
 
 <!--
