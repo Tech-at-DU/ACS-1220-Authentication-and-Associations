@@ -43,7 +43,7 @@ All assignments are due **by midnight (11:59pm PST)** on the **second** day (eit
 |:-----:|:---------:|:---------------------:|:---:|:---:|:---:|
 |  1 | Mon, Mar 29 | Tue, Mar 30 | [Data Modeling & Entity Relationships](https://docs.google.com/presentation/d/1TRDw_un1ceZJZKDcWD2aqZNtX3ObT79OVErDrWx3U2Y/edit?usp=sharing) | - |
 |  - | Wed, Mar 31 | Thu, Apr 1 | **No Class - Cesar Chavez Day** | - |
-|  2 | Mon, Apr 5 | Tue, Apr 6 | [Introduction to SQL](https://docs.google.com/presentation/d/1_orIZNWGvok4lht6QjdCGieZCHkcN3CmTH4aTllmXH8/edit?usp=sharing) | [ERDs Worksheet](https://www.gradescope.com/courses/228465/assignments/937103) |
+|  2 | Mon, Apr 5 | Tue, Apr 6 | [Introduction to SQL](https://docs.google.com/presentation/d/1_orIZNWGvok4lht6QjdCGieZCHkcN3CmTH4aTllmXH8/edit?usp=sharing) | [ERDs Worksheet](https://www.gradescope.com/courses/258940/assignments/1136095) |
 |  3 | Wed, Apr 7 | Thu, Apr 8 | [SQLAlchemy & Models](https://docs.google.com/presentation/d/1k-nU_sdgI6lm2vy3Mj0vreLXKKruiDSUdhCtU0k3ars/edit?usp=sharing) | [Homework 1: SQL Tables](Assignments/sql-tables.md) |
 |  4 | Mon, Apr 12 | Tue, Apr 13 | [More Models + Review](https://docs.google.com/presentation/d/17MAGBHICjWasx19zayqCA8soHxyGklMGw5hfKllMeW4/edit) | - |  |
 |  5 | Wed, Apr 14 | Thu, Apr 15 | [Class-based Forms](https://docs.google.com/presentation/d/14WY-WzmeVxpeSKhipo3JpdWnRCXFOakS26IvSv0pT9o/edit?usp=sharing) | [Homework 2: Events Site](Assignments/events-site.md) | [Practice Quiz 1: SQL & Models](Assessments/quiz-1-study-guide.md) |
