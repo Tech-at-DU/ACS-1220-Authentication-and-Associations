@@ -17,6 +17,7 @@ Your project should include the following:
 - At least 6 routes (including login/signup)
 - Authentication flow
 - At least 6 route tests
+- Deployed to Heroku
 
 Your project must also have a coherent theme. Some possible themes include:
 
@@ -26,6 +27,22 @@ Your project must also have a coherent theme. Some possible themes include:
 It is **not** acceptable to simple "re-skin" an existing homework assignment or tutorial for this project. Any such submission will receive a "Needs Improvement" grade. Your code must be original & written by you - although you can borrow ideas & code from your prior work.
 
 If you have an existing front-end that you've created for another class project, you can absolutely turn that into a final project submission. Just take your HTML files and turn each of them into a template, then start filling in the models, routes, etc. You can also opt to "level up" an existing Flask project to incorporate models, forms, auth, & tests.
+
+## Phase 1 Requirements
+
+The requirements for Phase 1 of the project are:
+
+- All model & form classes must be fully implemented.
+- 50% of routes must be implemented.
+- Project must run without errors.
+
+## Phase 2 Requirements
+
+The requirements for Phase 2 of the project are:
+
+- All routes must be fully implemented & run without errors.
+- All tests must pass and should test a substantial part of the page functionality.
+- Project should be deployed
 
 ## Video Demo
 
