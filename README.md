@@ -32,9 +32,11 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
-**Course Dates:** Tuesday, January 19 – Thursday, March 4, 2021 (7 weeks)
+**Course Dates (A):** Monday, March 29 – Wednesday, May 12, 2021 (7 weeks)
+**Course Dates (A):** Tuesday, March 30 – Thursday, May 13, 2021 (7 weeks)
 
-**Class Times:** Tuesday and Thursday at 2:30–5:15pm (13 class sessions)
+**Class Times (A):** Monday and Wednesday at 2:30–5:15pm (13 class sessions)
+**Class Times (B):** Tuesday and Thursday at 9:30am–12:15pm (13 class sessions)
 
 All assignments are due **by midnight (11:59pm PST)** on the **second** day (either Tuesday or Thursday) specified. 
 
@@ -103,7 +105,7 @@ In this class, we will be using student submissions as material for in-class dis
 
 Assignments or corrections submitted **more than 7 days (1 week) late** will **not** be accepted.
 
-The **absolute last day** to submit any assignment will be **Friday, March 5 at 11:59 PM**. After that, no other extensions may be granted even in extenuating circumstances due to a hard deadline for submitting grades.
+The **absolute last day** to submit any assignment will be **Friday, May 14 at 11:59 PM**. After that, no other extensions may be granted even in extenuating circumstances due to a hard deadline for submitting grades.
 
 If you require accommodations or have extenuating circumstances such as prolonged illness, please contact your instructor to request an extension.
 
