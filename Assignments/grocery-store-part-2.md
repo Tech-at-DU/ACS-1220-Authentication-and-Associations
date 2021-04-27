@@ -56,7 +56,7 @@ Finally, initialize an instance of `flask_bcrypt.Bcrypt` with the app.
 
 ## Adding forms
 
-In `books_app/forms.py`, add form classes for the `LoginForm` and `SignUpForm`. **You can copy these from the lab activity instructions, as they will be pretty much the same.** 
+In `grocery_app/forms.py`, add form classes for the `LoginForm` and `SignUpForm`. **You can copy these from the lab activity instructions, as they will be pretty much the same.** 
 
 For reference, here is the code (you'll need to add the imports):
 
