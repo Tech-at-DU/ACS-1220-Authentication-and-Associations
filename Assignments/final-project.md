@@ -8,6 +8,10 @@ So far this term, we've completed projects in order to practice skills in isolat
 
 Complete your project proposal on [Gradescope](https://www.gradescope.com/courses/228465/assignments/1046879/).
 
+## Starter code
+
+You may use the starter code [here](https://github.com/Make-School-Labs/BEW-1.2-Project-Starter) to begin your project.
+
 ## Requirements
 
 Your project should include the following:
