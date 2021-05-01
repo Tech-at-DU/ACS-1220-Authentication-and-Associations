@@ -54,7 +54,7 @@ All assignments are due **by midnight (11:59pm PST)** on the **second** day (eit
 |  8 | Mon, Apr 26 | Tue, Apr 27 | [More Authentication](https://docs.google.com/presentation/d/1XZvS-uTwqCSsOO7R5DNkrEOFTJcr3OMZ-1Ox2tgdxos/edit?usp=sharing) | - | - |
 |  9 | Wed, Apr 28 | Thu, Apr 29 | [Testing 1](https://docs.google.com/presentation/d/1FW0BgnRUwli2NmogMhZevoB8clAABL3Xrf49tzaNrEg/edit?usp=sharing) | [Homework 4: Grocery Store Pt. 2](Assignments/grocery-store-part-2.md) |
 | 10 | Mon, May 3 | Tue, May 4 | [Testing 2](https://docs.google.com/presentation/d/1Si93cdRb9MFUQT_Jb2Kp1Fh-_51QTT22kmqOgoOLedg/edit?usp=sharing) | [Final Project Phase 1](Assignments/final-project.md) |
-| 11 | Wed, May 5 | Thu, May 6 | [Message Flashing, Pagination, & Error Handling](https://docs.google.com/presentation/d/1IjkyJBMVLsfArkFE2deyfDa54jOpBPk8YQ1gbXNAeRY/edit?usp=sharing) | [Homework 5: Testing](Assignments/testing.md) | [Practice Quiz 2: Forms & Models](Assessments/quiz-2-study-guide.md) |
+| 11 | Wed, May 5 | Thu, May 6 | [Message Flashing, Pagination, & Error Handling](https://docs.google.com/presentation/d/1IjkyJBMVLsfArkFE2deyfDa54jOpBPk8YQ1gbXNAeRY/edit?usp=sharing) | [Homework 5: Testing](Assignments/testing.md) | [Practice Quiz 2: Forms & Authentication](Assessments/quiz-2-study-guide.md) |
 | 12 | Mon, May 10 | Tue, May 11  | [Deployment](https://docs.google.com/presentation/d/1hfp3poM5wFHqNT30Z8KdgREGUAFOtN-Bm9_ub9FMj-Q/edit?usp=sharing) | - |
 | 13 | Wed, May 12 | Thu, May 13 | Finals | [Final Project Phase 2](Assignments/final-project.md) | Final Assessment (Cumulative) |
 
