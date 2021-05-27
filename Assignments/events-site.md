@@ -31,15 +31,15 @@ The first step here is to create the models we'll use throughout this project. T
 
 **Navigate to `events_app/models.py` and complete the TODOs to create the model classes.**
 
-### Routes
+### Routes & Templates
 
-Navigate to `events_app/routes.py` and take a look at the existing routes. They are:
+Navigate to `events_app/routes.py` and take a look at the existing routes, as well as their corresponding templates. They are:
 
-- `index`: Shows a list of all events
-- `event_detail`: Shows the details of a single event, as well as the form to RSVP
+- `index` and `templates/index.html`: Shows a list of all events
+- `create` and `templates/create.html`: Shows a form to create an event, and accepts a `POST` request to create an event
+- `event_detail` and `templates/event_detail.html`: Shows the details of a single event, as well as the form to RSVP
 - `rsvp`: Accepts a `POST` request with the user's information, and adds them to the event's attendees
-- `create`: Shows a form to create an event, and accepts a `POST` request to create an event
-- `guest_detail`: Shows the details for a single guest, and the events they've RSVP'd to
+- `guest_detail` and `templates/guest_detail.html`: Shows the details for a single guest, and the events they've RSVP'd to
 
 **Complete the TODOs in `routes.py` as well as in the templates** to complete the app's functionality.
 
