@@ -79,6 +79,17 @@ class LoginForm(FlaskForm):
         validators=[DataRequired(), Length(min=3, max=50)])
     password = PasswordField('Password', validators=[DataRequired()])
     submit = SubmitField('Log In')
+
+    def validate_username(self, username):
+        user = User.query.filter_by(username=username.data).first()
+        if not user:
+            raise ValidationError('No user with that username. Please try again.')
+
+    def validate_password(self, password):
+        user = User.query.filter_by(username=self.username.data).first()
+        if user and not bcrypt.check_password_hash(
+                user.password, password.data):
+            raise ValidationError('Password doesn\'t match. Please try again.')
 ```
 
 ## Adding Routes
@@ -122,10 +133,9 @@ def login():
     form = LoginForm()
     if form.validate_on_submit():
         user = User.query.filter_by(username=form.username.data).first()
-        if user and bcrypt.check_password_hash(user.password, form.password.data):
-            login_user(user, remember=True)
-            next_page = request.args.get('next')
-            return redirect(next_page if next_page else url_for('main.homepage'))
+        login_user(user, remember=True)
+        next_page = request.args.get('next')
+        return redirect(next_page if next_page else url_for('main.homepage'))
     return render_template('login.html', form=form)
 
 @auth.route('/logout')
