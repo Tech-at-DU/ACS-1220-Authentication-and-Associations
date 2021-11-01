@@ -1,4 +1,4 @@
-# ACS 1120: Authentication, Associations, & Advanced Queries
+# ACS 1220: Authentication, Associations, & Advanced Queries
 
 ## Course Description
 
