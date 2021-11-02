@@ -1,4 +1,4 @@
-# Quiz 3: Authentication & Testing
+# Check In 3: Authentication & Testing
 
 You should be able to...
 
