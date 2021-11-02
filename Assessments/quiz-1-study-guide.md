@@ -1,4 +1,4 @@
-# Practice Quiz 1: SQL & Models
+# Check In 1: SQL & Models
 
 You should be able to...
 
