@@ -1,4 +1,4 @@
-# Quiz 2: Forms & Authentication
+# Check In 2: Forms & Authentication
 
 You should be able to...
 
