@@ -59,6 +59,12 @@ By the end of the course, you will be able to ...
 - Pass the final assessment by earning a score of at least 70%, **OR** earn at least 70% on all 3 check ins.
 - Abide by the Attendance Policy.
 
+## Assignments
+
+1. [Models-Labs](https://github.com/Make-School-Labs/BEW-1.2-Models-Lab)
+1. [Forms-Lab](https://github.com/Make-School-Labs/BEW-1.2-Forms-Lab)
+1. [Auth-Lab](https://github.com/Make-School-Labs/BEW-1.2-Auth-Lab)
+
 ## Gradescope & Submission
 
 We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
