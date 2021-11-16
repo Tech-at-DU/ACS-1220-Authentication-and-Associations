@@ -59,11 +59,12 @@ By the end of the course, you will be able to ...
 - Pass the final assessment by earning a score of at least 70%, **OR** earn at least 70% on all 3 check ins.
 - Abide by the Attendance Policy.
 
-## Assignments
+## Tutorials & Projects
 
-1. [Models-Labs](https://github.com/Make-School-Labs/BEW-1.2-Models-Lab)
-1. [Forms-Lab](https://github.com/Make-School-Labs/BEW-1.2-Forms-Lab)
-1. [Auth-Lab](https://github.com/Make-School-Labs/BEW-1.2-Auth-Lab)
+2. [The Books Tutorial - Models-Labs](https://github.com/Make-School-Labs/BEW-1.2-Models-Lab)
+3. [The Books Tutorial - Forms-Lab](https://github.com/Make-School-Labs/BEW-1.2-Forms-Lab)
+4. [The Books Tutorial - Auth-Lab](https://github.com/Make-School-Labs/BEW-1.2-Auth-Lab)
+5. [Final Project](https://github.com/Tech-at-DU/ACS-1220-Authentication-and-Associations/blob/master/Assignments/final-project.md)
 
 ## Gradescope & Submission
 
