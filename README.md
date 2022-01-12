@@ -31,8 +31,7 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
-**Course Dates:** Monday, October 18 – Thursday, December 9, 2021<br>
-**Class Times:** Monday, Wednesday, and Thursday at 5:40–7:30pm
+View our [Course Tracker](https://docs.google.com/spreadsheets/d/1Y-iGhilADMht320FgKmhV3aNg4deWiixEp-bZXVU8gM/edit#gid=876739297)
 
 | Class | Topics                                                                                                                                                 | Assignment Due                                                                                                                                                  | Assessment Due                                                               |
 | :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
