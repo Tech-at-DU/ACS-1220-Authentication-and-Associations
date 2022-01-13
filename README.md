@@ -67,7 +67,7 @@ View our [Course Tracker](https://docs.google.com/spreadsheets/d/1Y-iGhilADMht32
 
 ## Gradescope & Submission
 
-We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
+We will be using [Gradescope](https://www.gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
 
 As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
 
