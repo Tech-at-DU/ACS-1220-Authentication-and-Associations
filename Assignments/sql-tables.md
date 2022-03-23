@@ -6,6 +6,8 @@ In this assignment, you'll practice writing SQL code to create and query data in
 
 You will complete the TODOs in [this SQL fiddle](http://sqlfiddle.com/#!7/a34037/2) for this assignment.
 
+(Note! you must run the Fiddle in Chrome!)
+
 You can also clone the [starter code](https://github.com/make-school-labs/sql-commands-practice) and work on your machine. You can run SQLite code on your machine using the starter code instructions.
 
 ## Instructions
