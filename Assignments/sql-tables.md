@@ -8,7 +8,7 @@ You will complete the TODOs in [this SQL fiddle](http://sqlfiddle.com/#!7/a34037
 
 (Note! you must run the Fiddle in Chrome!)
 
-You can also clone the [starter code](https://github.com/make-school-labs/sql-commands-practice) and work on your machine. You can run SQLite code on your machine using the starter code instructions.
+You can also clone the [starter code](https://github.com/Tech-at-DU/sql-commands-practice) and work on your machine. You can run SQLite code on your machine using the starter code instructions.
 
 ## Instructions
 
