@@ -17,7 +17,7 @@ Scoring for this project is as follows:
 
 ## Setup
 
-Clone the [starter code](https://github.com/Make-School-Labs/BEW-1.2-Events-Homework) and follow the instructions in the README to get started on this project.
+Clone the [starter code](https://github.com/Tech-at-DU/BEW-1.2-Events-Homework) and follow the instructions in the README to get started on this project.
 
 ## Instructions
 
