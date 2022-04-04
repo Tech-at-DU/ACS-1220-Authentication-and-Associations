@@ -2,7 +2,15 @@
 
 Here are some notes on how to perform a range of operations in Flask with SQLAlchemy. 
 
+## Select 
+
+
+
 ## Insert 
+
+These examples cover adding new records to tables. 
+
+Note how Join tables are treated as lists on their relationship tables.
 
 ### Adding a new genre
 
