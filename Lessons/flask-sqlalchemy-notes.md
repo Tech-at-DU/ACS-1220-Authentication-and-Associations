@@ -91,4 +91,37 @@ db.session.add(m)
 db.session.commit()
 ```
 
+## Handling Routes
+
+To display all of the Books in a route you need to get the books and pass them to the template. 
+
+### Get Books in a route 
+
+```python
+@main.route('/books')
+def bookspage():
+    books = Book.query.all() # Get all of the books 
+    return render_template('home.html', books=books) # pass the books to the template
+```
+
+Notice the books list is passed to the template in `render_template`
+
+### Display Books in a Template
+
+A template will receive the variables passed through the `render_template` method. 
+This example follows the one above and uses the `books` list passed to the template. 
+
+```html
+{% for book in books %}
+  <a href="#">
+    <h2>{{ book.title }}</h2>
+  </a>
+  <span class="">{{ book.author.name }}</span>
+  <hr>
+{% endfor %}
+```
+
+Here you are looping over each `book` in `books`. You display the title of each book. 
+
+Notice the author is an object with it's own properties, including `name`.
 
