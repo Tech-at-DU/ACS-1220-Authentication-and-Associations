@@ -4,7 +4,23 @@ Here are some notes on how to perform a range of operations in Flask with SQLAlc
 
 ## Select 
 
+### Get all Books 
 
+```python
+allbooks = Book.query.all()
+```
+
+You can get any book from the `allbooks` list like this: 
+
+```python
+allbooks[0] # get the first book
+```
+
+Find a book by it's title: 
+
+```python
+b1 = Book.query.filter_by(title="To Kill a Mockingbird").one()
+```
 
 ## Insert 
 
