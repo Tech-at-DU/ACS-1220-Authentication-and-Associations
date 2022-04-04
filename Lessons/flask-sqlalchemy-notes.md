@@ -16,11 +16,28 @@ You can get any book from the `allbooks` list like this:
 allbooks[0] # get the first book
 ```
 
-Find a book by it's title: 
+### Search with a Filter
+
+Find a book by it's title. Here you are search for an exact match. 
 
 ```python
 b1 = Book.query.filter_by(title="To Kill a Mockingbird").one()
 ```
+
+### Using LIKE
+
+Here you can search for a partial string. Similar to using the LIKE key word in SQL. 
+
+Notice that each model has a `like` method that you call on any property! 
+
+```python
+b = Book.query.filter(Book.title.like("%St%")) # all books with "St" in the title
+b.all()
+```
+
+Here you're searching "%St%". This will find any title that contains the string "st" 
+with any other characters before or after. This search is case insensitive and will find 
+both "The string cheese" and "Steve Jobs".
 
 ## Insert 
 
