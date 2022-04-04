@@ -2,7 +2,9 @@
 
 Here are some notes on how to perform a range of operations in Flask with SQLAlchemy. 
 
-## Adding a new genre
+## Insert 
+
+### Adding a new genre
 
 ```python
 g = Genre(name="biography")
@@ -11,7 +13,7 @@ db.session.commit()
 ```
 
 
-## Add a new Author
+### Add a new Author
 
 ```python
 a = Author(name="Isaac Walter")
@@ -19,7 +21,7 @@ db.session.add(a)
 db.session.commit()
 ```
 
-## Add a book
+### Add a book
 
 Notice you are using the Author object `a` created above!
 
@@ -29,7 +31,7 @@ db.session.add(b)
 db.session.commit()
 ```
 
-## Add a new user 
+### Add a new user 
 
 ```python
 me = User(username="Me")
@@ -37,7 +39,7 @@ db.session.add(b)
 db.session.commit()
 ```
 
-## Add a favorite book to a user
+### Add a favorite book to a user
 
 Notice that `favorite_books` is our join table but we treat it like a list! 
 Here you are appending the Book `b`, created above, to the User `me`, also created above, favorite_books list. 
@@ -52,7 +54,7 @@ db.session.add(me)
 db.session.commit()
 ```
 
-## Add a user to a book
+### Add a user to a book
 
 Here you are adding a user to a book. This is like saying that this book is a favorite of this user. 
 Again you'll user `me` created earlier. This time you'll get a book from the database first. 
