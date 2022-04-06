@@ -79,8 +79,9 @@ The output would look like this:
 ```HTML
 <form>
 ...
-<input id="title" name="title" size="20" type="text" value="">
 <label for="title">Event title:</label>
+<input id="title" name="title" size="20" type="text" value="">
+
 ...
 </form>
 ```
