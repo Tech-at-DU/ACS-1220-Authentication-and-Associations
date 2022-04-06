@@ -163,6 +163,21 @@ Use this in your template:
 {{ form.date }}
 ```
 
+This might be better still. Set the type of the element to date and of time. This 
+is an html5 attribute that tailors the form to choosing dates and times: 
+
+```HTML
+{{ form.date.label }} {{ form.date(type="date") }} <!-- set the type to "date" -->
+{{ form.time.label }} {{ form.time(type="time") }} <!-- set the type to "time" -->
+```
+
+This generates the following: 
+
+```HTML
+<input id="date" name="date" type="date" value="">
+<input id="time" name="date" type="time" value="">
+```
+
 ## Validating Form input 
 
 WTForms includes validators. Use these to guarantee input is the type and 
