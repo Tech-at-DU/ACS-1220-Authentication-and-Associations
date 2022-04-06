@@ -64,7 +64,8 @@ View our [Course Tracker](https://docs.google.com/spreadsheets/d/1Y-iGhilADMht32
 3. [The Books Tutorial - Forms-Lab](https://github.com/Tech-at-DU/ACS-1220-Forms-Lab)
 4. [Event Site](https://github.com/Tech-at-DU/ACS-1220-Authentication-and-Associations/blob/master/Assignments/events-site.md) 
 5. [The Books Tutorial - Auth-Lab](https://github.com/Make-School-Labs/BEW-1.2-Auth-Lab)
-6. [Final Project](https://github.com/Tech-at-DU/ACS-1220-Authentication-and-Associations/blob/master/Assignments/final-project.md)
+6. [Grocery Store](https://github.com/Tech-at-DU/ACS-1220-Authentication-and-Associations/blob/master/Assignments/grocery-store-part-2.md)
+7. [Final Project](https://github.com/Tech-at-DU/ACS-1220-Authentication-and-Associations/blob/master/Assignments/final-project.md)
 
 ## Gradescope & Submission
 
