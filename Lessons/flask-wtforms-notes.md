@@ -204,3 +204,57 @@ Use `reqest.form.get('field-name')` to get the value from a field.
 Notice that you are getting the values from your form by the name of the 
 attribute. 
 
+## Styling Forms
+
+Setting the size in the form element is not best practice, even though it may be shown in many examples! Better is to keep all presentational code in your CSS file! 
+
+Setting the size of an element is not best practice! 
+
+```HTML
+<!-- meh -->
+<form>
+  {{ form.description.label }} <!-- Display the label -->
+  {{ form.description(size=20) }} <!-- Display the TextArea  with font size 20 -->
+</form>
+```
+
+Better! Assign an element a class name!
+
+```HTML
+<!-- Wow! -->
+<form>
+  {{ form.title.label }} 
+  {{ form.title(class="title-input") }} <!-- set a class name -->
+</form>
+```
+
+Style your element! 
+
+```CSS
+.title-input {
+  font-size: 20px;
+}
+```
+
+Here is another approach. Assign a class name to the form tag and style the form elements using selectors!
+
+```HTML
+<!-- Wow! -->
+<form class="create-event-form"> <!-- set a class name -->
+  {{ form.title.label }} 
+  {{ form.title() }} 
+</form>
+```
+
+Style your element! 
+
+```CSS
+.create-event-form input { /* Styles all <input> elements in .create-event-form */
+  font-size: 20px;
+}
+```
+
+
+
+
+
