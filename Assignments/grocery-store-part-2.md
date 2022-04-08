@@ -17,7 +17,7 @@ Scoring for this project is as follows:
 
 ## Setup
 
-For this project, you will be using the [Homework 3 starter code](https://github.com/Make-School-Labs/BEW-1.2-Forms-Homework). Please modify your existing submission to add functionality. You may choose to make a copy of your submission for this assignment.
+For this project, you will be using the [Homework 3 starter code](https://github.com/Tech-at-DU/ACS-1220-Grocery-Store-Homework). Please modify your existing submission to add functionality. You may choose to make a copy of your submission for this assignment.
 
 ## Instructions
 
