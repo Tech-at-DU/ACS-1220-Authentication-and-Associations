@@ -17,7 +17,7 @@ Scoring for this project is as follows:
 
 ## Setup
 
-Clone the [starter code](https://github.com/Make-School-Labs/BEW-1.2-Forms-Homework) and follow the instructions in the README to get started on this project.
+Clone the [starter code](https://github.com/Tech-at-DU/ACS-1220-Grocery-Store-Homework) and follow the instructions in the README to get started on this project.
 
 Before starting this project, make sure to run the code to familiarize yourself with how it works.
 
