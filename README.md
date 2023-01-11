@@ -7,7 +7,7 @@ In this course, students build on their knowledge of web servers by learning sev
 
 ## Prerequisites
 
-- [WEB 1.1](https://make.sc/web1.1)
+- BEW 1.1
 
 
 ## Course Specifics
