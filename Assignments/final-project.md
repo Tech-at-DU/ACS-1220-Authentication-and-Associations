@@ -21,7 +21,7 @@ Your project should include the following:
 - At least 6 routes (including login/signup)
 - Authentication flow
 - At least 6 route tests
-- Deployed to Heroku
+- Deployed
 
 Your project must also have a coherent theme. Some possible themes include:
 
