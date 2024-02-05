@@ -42,10 +42,10 @@ In this course, students build on their knowledge of web servers by learning sev
 |   7   | [Authentication & Authorization](https://docs.google.com/presentation/d/1abPpkG9iXr7LurkiuNIZRb5O7qnMqzCuB-KUXpTaft0/edit?usp=sharing) | [Homework 3: Grocery Store](Assignments/grocery-store.md) <br>-AND-<br> [Final Project Proposal (https://www.gradescope.com/) | - |
 |   8   | [More Authentication](https://docs.google.com/presentation/d/1iEvYltYw6PX59jgKjdg31l99s3DSz_vOn2Rna9yu_zs/edit?usp=sharing) | - | - |
 |   9   | [Testing 1](https://docs.google.com/presentation/d/154vOhULkWwbZhGND92WjKE2ZAkL3Jlt8sF_3FO-UCAA/edit?usp=sharing) | [Homework 4: Grocery Store Pt. 2](Assignments/grocery-store-part-2.md) | - |
-|  10   | [Testing 2](https://docs.google.com/presentation/d/1ZJ-g82guuwzoH577oHVdJScFT9nZwfZ6cPd3IQBc8ZY/edit?usp=sharing) | [Final Project Phase 1](Assignments/final-project.md) | - |
+|  10   | [Testing 2](https://docs.google.com/presentation/d/1ZJ-g82guuwzoH577oHVdJScFT9nZwfZ6cPd3IQBc8ZY/edit?usp=sharing) | [Final Project: Phase 1](Assignments/final-project.md) | - |
 |  11   | [Message Flashing, Pagination, & Error Handling](https://docs.google.com/presentation/d/19Kr3LHULkpKCuSow1cPNtjijGjaKJKiRsn7_ajhLMq4/edit?usp=sharing) | [Homework 5: Testing](Assignments/testing.md) | - |
 |  12   | [Deployment](https://docs.google.com/presentation/d/1hUCFcXzie9qzdTFU7msRQChpZnetRcLMwCsAibMhRrg/edit?usp=sharing) | - | - |
-|  13   | [Final Exam](https://docs.google.com/presentation/d/138gP-_YTLhvZS4tEGzqinKwH-vN_x22AQo35WG0rwg4/edit#slide=id.p3) | [Final Project Phase 2](Assignments/final-project.md) | **Final Exam** _(Cumulative)_ <br> [Study Guide 1: SQL & Models](Assessments/quiz-1-study-guide.md) <br>[Study Guide 2: Forms & Authentication](Assessments/quiz-2-study-guide.md) |
+|  13   | **Final Exam** <br><br> [SQL / Models Study Guide](Assessments/quiz-1-study-guide.md) <br>[Forms / Authentication Study Guide](Assessments/quiz-2-study-guide.md) | [Final Project: Phase 2](Assignments/final-project.md) | **Final Exam** <br>_(Cumulative)_ |
 
 ## Evaluation
 
