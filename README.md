@@ -32,14 +32,14 @@ In this course, students build on their knowledge of web servers by learning sev
 <!-- View our [Course Tracker](https://docs.google.com/spreadsheets/d/1Y-iGhilADMht320FgKmhV3aNg4deWiixEp-bZXVU8gM/edit#gid=876739297) -->
 
 | Class | Topics | Assignment Due | Assessment Due |
-| :---: | ------ | :------------- | :------------- |
+| :---: | ------ | :-------------: | :-------------: |
 |   1   | [Data Modeling & Entity Relationships](https://docs.google.com/presentation/d/1gw8Odctmm6LUdX0tMYJ4aEdo4RzuQP9bmpAKp7_Ql_M/edit?usp=sharing) | - | - |
 |   2   | [Introduction to SQL](https://docs.google.com/presentation/d/1WFSkVLTH66zw54CJ0WfH1qvPEzggQis4XuYEu37DCsA/edit?usp=sharing) | [ERDs Worksheet](https://www.gradescope.com/) |
 |   3   | [SQLAlchemy & Models](https://docs.google.com/presentation/d/11gMgrQmAqDifOoUbYklgRLYNdxun5CvMGI80btMznIE/edit?usp=sharing) | [Homework 1: SQL Tables](Assignments/sql-tables.md) | - |
 |   4   | [More Models + Review](https://docs.google.com/presentation/d/1RrtCABGaCX0AV5-0icq5GZhPocV74E9tZ66qlqzPNB8/edit?usp=sharing) | - | - |
 |   5   | [Class-based Forms](https://docs.google.com/presentation/d/1wY1xBkXPtYB7S8Bux6yZIf_bT1i1z4jaNnVsuOEm7hU/edit?usp=sharing) | [Homework 2: Events Site](Assignments/events-site.md) | - | 
 |   6   | [More Forms](https://docs.google.com/presentation/d/1IhURwt52TGpAlut28L6S9tNALmvplh1SCFq31dqqvms/edit?usp=sharing) | - | - |
-|   7   | [Authentication & Authorization](https://docs.google.com/presentation/d/1abPpkG9iXr7LurkiuNIZRb5O7qnMqzCuB-KUXpTaft0/edit?usp=sharing) | [Homework 3: Grocery Store](Assignments/grocery-store.md) <br>-AND-<br> [Final Project Proposal](https://www.gradescope.com/) | - |
+|   7   | [Authentication & Authorization](https://docs.google.com/presentation/d/1abPpkG9iXr7LurkiuNIZRb5O7qnMqzCuB-KUXpTaft0/edit?usp=sharing) | [Homework 3: Grocery Store](Assignments/grocery-store.md) -<br> & [Final Project Proposal](https://www.gradescope.com/) | - |
 |   8   | [More Authentication](https://docs.google.com/presentation/d/1iEvYltYw6PX59jgKjdg31l99s3DSz_vOn2Rna9yu_zs/edit?usp=sharing) | - | - |
 |   9   | [Testing 1](https://docs.google.com/presentation/d/154vOhULkWwbZhGND92WjKE2ZAkL3Jlt8sF_3FO-UCAA/edit?usp=sharing) | [Homework 4: Grocery Store Pt. 2](Assignments/grocery-store-part-2.md) | - |
 |  10   | [Testing 2](https://docs.google.com/presentation/d/1ZJ-g82guuwzoH577oHVdJScFT9nZwfZ6cPd3IQBc8ZY/edit?usp=sharing) | [Final Project: Phase 1](Assignments/final-project.md) | - |
