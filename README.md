@@ -7,7 +7,7 @@ In this course, students build on their knowledge of web servers by learning sev
 
 ## Prerequisites
 
-- BEW 1.1
+- ACS 1110
 
 
 ## Course Specifics
@@ -31,7 +31,7 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
-View our [Course Tracker](https://docs.google.com/spreadsheets/d/1Y-iGhilADMht320FgKmhV3aNg4deWiixEp-bZXVU8gM/edit#gid=876739297)
+<!-- View our [Course Tracker](https://docs.google.com/spreadsheets/d/1Y-iGhilADMht320FgKmhV3aNg4deWiixEp-bZXVU8gM/edit#gid=876739297) -->
 
 | Class | Topics                                                                                                                                                 | Assignment Due                                                                                                                                                  | Assessment Due                                                               |
 | :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
