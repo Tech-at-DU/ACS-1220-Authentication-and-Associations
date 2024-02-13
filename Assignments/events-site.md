@@ -4,7 +4,7 @@
 
 This project will allow you to practice the basics of creating SQLAlchemy models and using them to construct a small web application!
 
-If you have trouble with this assignment, I would highly recommend completing the [SQLAlchemy Models Lab (Books)](https://github.com/Make-School-Labs/BEW-1.2-Models-Lab) which will guide you through step-by-step and show examples of creating and using models and relationships.
+If you have trouble with this assignment, I would highly recommend completing the [SQLAlchemy Models Lab (Books)](https://github.com/Tech-at-DU/ACS-1220-Models-Lab) which will guide you through step-by-step and show examples of creating and using models and relationships.
 
 Scoring for this project is as follows:
 
@@ -17,7 +17,7 @@ Scoring for this project is as follows:
 
 ## Setup
 
-Clone the [starter code](https://github.com/Tech-at-DU/BEW-1.2-Events-Homework) and follow the instructions in the README to get started on this project.
+Clone the [starter code](https://github.com/Tech-at-DU/ACS-1220-Models-Lab) and follow the instructions in the README to get started on this project.
 
 ## Instructions
 
