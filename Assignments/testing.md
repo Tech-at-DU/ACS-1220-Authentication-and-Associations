@@ -15,7 +15,7 @@ Scoring for this project is as follows:
 
 ## Setup
 
-Clone the [starter code](https://github.com/Make-School-Labs/BEW-1.2-Testing-Homework) and follow the instructions in the README to get started on this project.
+Clone the [starter code](https://github.com/Tech-at-DU/ACS-1220-Testing-Homework/tree/main) and follow the instructions in the README to get started on this project.
 
 Before starting this project, make sure to run the code to familiarize yourself with how it works.
 
@@ -37,4 +37,4 @@ If you'd like more resources on working with Flask-WTForms, check out the follow
 
 - [Unit Testing a Flask Application](https://www.patricksoftwareblog.com/unit-testing-a-flask-application/)
 - [Testing Flask Applications](https://flask.palletsprojects.com/en/1.1.x/testing/)
-- [Python Tutorial: Unit Testing Your Code with the unittest Module [VIDEO]](https://www.youtube.com/watch?v=6tNS--WetLI)
+- [Python Tutorial: Unit Testing Your Code with the unittest module [VIDEO]](https://www.youtube.com/watch?v=6tNS--WetLI)
