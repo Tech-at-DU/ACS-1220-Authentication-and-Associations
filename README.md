@@ -1,4 +1,4 @@
-# ACS 1220: Authentication, Associations, & Advanced Queries
+# ACS 1220: Authentication, Associations, <br>& Advanced Queries
 
 ## Course Description
 
@@ -7,7 +7,7 @@ In this course, students build on their knowledge of web servers by learning sev
 
 ## Prerequisites
 
-- ACS 1110
+- ACS 1111
 
 ## Course Specifics
 
