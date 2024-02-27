@@ -44,8 +44,9 @@ In this course, students build on their knowledge of web servers by learning sev
 |   9   | [Testing 1](https://docs.google.com/presentation/d/154vOhULkWwbZhGND92WjKE2ZAkL3Jlt8sF_3FO-UCAA/edit?usp=sharing) | [Homework 4: Grocery Store Pt. 2](Assignments/grocery-store-part-2.md) | - |
 |  10   | [Testing 2](https://docs.google.com/presentation/d/1ZJ-g82guuwzoH577oHVdJScFT9nZwfZ6cPd3IQBc8ZY/edit?usp=sharing) | [Final Project: Phase 1](Assignments/final-project.md) | - |
 |  11   | [Message Flashing, Pagination, & Error Handling](https://docs.google.com/presentation/d/19Kr3LHULkpKCuSow1cPNtjijGjaKJKiRsn7_ajhLMq4/edit?usp=sharing) | [Homework 5: Testing](Assignments/testing.md) | - |
-<!-- |  12   | [Deployment](https://docs.google.com/presentation/d/1hUCFcXzie9qzdTFU7msRQChpZnetRcLMwCsAibMhRrg/edit?usp=sharing) | - | - | -->
 |  12   | **Final Exam** <br><br> [SQL / Models Study Guide](Assessments/quiz-1-study-guide.md) <br>[Forms / Authentication Study Guide](Assessments/quiz-2-study-guide.md) | [Final Project: Phase 2](Assignments/final-project.md) | **Final Exam** <br>_(Cumulative)_ |
+
+<!-- |  12   | [Deployment](https://docs.google.com/presentation/d/1hUCFcXzie9qzdTFU7msRQChpZnetRcLMwCsAibMhRrg/edit?usp=sharing) | - | - | -->
 
 ## Evaluation
 
