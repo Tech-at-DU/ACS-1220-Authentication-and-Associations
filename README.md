@@ -22,9 +22,8 @@ In this course, students build on their knowledge of web servers by learning sev
 1. Use OOP principles to write database models that accurately reflect the data stored.
 1. Implement class-based forms to process user data.
 1. Implement authentication & authorization using a server-side library.
-1. Write route tests and utilize a mocking library to fully test web server routes.
-1. Use blueprints to organize and simplify code.
-1. Invent, create, test, deploy, and deliver a full-stack web project utilizing techniques learned.
+1. Write route tests that utilize a mocking library to fully test web server routes.
+1. Invent, create, test, and deliver a full-stack web project utilizing techniques learned.
 
 
 ## Schedule
@@ -75,7 +74,7 @@ Your Gradescope login is your Dominican University email, and your password can 
 
 ## Class Recordings
 
-All class recordings will be available [here](https://bit.ly/droxey-vids) no later than 24 hours after the class session. For privacy reasons, please do not share the recordings outside of the ACS student body.
+Those enrolled in [Dani](https://github.com/droxey)'s sessions can access all her recordings at [here](https://bit.ly/droxey-vids) no later than 24 hours after the class session. For privacy reasons, please do not share the recordings outside of the ACS student body.
 
 ## Academic Honesty Policy
 
