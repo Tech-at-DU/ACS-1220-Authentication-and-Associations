@@ -17,7 +17,7 @@ Scoring for this project is as follows:
 
 ## Setup
 
-Clone the [starter code](https://github.com/Tech-at-DU/ACS-1220-Models-Lab) and follow the instructions in the README to get started on this project.
+Clone the [starter code](https://github.com/Tech-at-DU/ACS-1220-Events-Homework) and follow the instructions in the README to get started on this project.
 
 ## Instructions
 
@@ -43,10 +43,6 @@ Navigate to `events_app/routes.py` and take a look at the existing routes, as we
 
 **Complete the TODOs in `routes.py` as well as in the templates** to complete the app's functionality.
 
-## Stretch Challenges
-
-For more practice using SQLAlchemy, check out the [Flask-Django Independent Study Rookie Materials](https://github.com/flask-django-independent-study/rookie) put together by Sid & Starlight! :)
-
 ## Resources
 
 - [SQLAlchemy Relationship Patterns](https://docs.sqlalchemy.org/en/13/orm/basic_relationships.html) - A comprehensive guide on how to construct models with One-to-Many, One-to-One, and Many-to-Many relationships.
@@ -54,8 +50,6 @@ For more practice using SQLAlchemy, check out the [Flask-Django Independent Stud
 - [Filter Operations](https://www.tutorialspoint.com/sqlalchemy/sqlalchemy_orm_filter_operators.htm)
 - [Getting Started with Flask-SQLAlchemy [VIDEO]](https://www.youtube.com/watch?v=jTiyt6W1Qpo) - Short, to-the-point guide to get you started
 - [Full-Featured Web App Tutorial [VIDEO]](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - A longer project, but provides a lot of context on how various concepts fit together.
-
-
 
 ## Submission
 
