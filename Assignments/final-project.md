@@ -4,6 +4,11 @@
 
 So far this term, we've completed projects in order to practice skills in isolation. But it's also important to be able to put it all together! This project will give you a chance to practice what we've learned while also creating a portfolio project that you can show off to employers.
 
+Students can opt to complete the final project solo, or with one additional partner. Regardless, all students in this class MUST:
+- Commit and push to GitHub a minimum of 10 times
+- Commit history of commits over several days
+- PROJECTS WITH LESS THAN 48 HOURS OF COMMIT HISTORY WILL NOT BE ACCEPTED
+
 ## Proposal
 
 Complete your project proposal on [Gradescope](https://www.gradescope.com/).
