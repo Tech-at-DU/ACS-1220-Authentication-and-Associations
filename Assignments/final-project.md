@@ -4,22 +4,26 @@
 
 So far this term, we've completed projects in order to practice skills in isolation. But it's also important to be able to put it all together! This project will give you a chance to practice what we've learned while also creating a portfolio project that you can show off to employers.
 
-Students can opt to complete the final project solo, or with one additional partner. Regardless, all students in this class MUST:
-- Commit and push to GitHub a minimum of 10 times
-- Commit history of commits over several days
-- PROJECTS WITH LESS THAN 48 HOURS OF COMMIT HISTORY WILL NOT BE ACCEPTED
-
 ## Proposal
 
 Complete your project proposal on [Gradescope](https://www.gradescope.com/).
 
-## Starter code
+## Starter Code
 
 You may use the starter code [here](https://github.com/Tech-at-DU/ACS-1220-Project-Starter) to begin your project.
 
+You may also start from scratch.
+
 ## Requirements
 
-Your project should include the following:
+**Students can opt to complete the final project solo, or with one additional partner**. 
+
+Regardless, all students in this class MUST:
+- Commit and push to GitHub a **MINIMUM** of 10 times
+- Commit history of commits over **SEVERAL** days
+- PROJECTS WITH **LESS THAN 48 HOURS OF COMMIT HISTORY** WILL NOT BE ACCEPTED
+
+**Your project should include the following**:
 
 - At least 3 models (including `User` model)
 - At least 3 forms (including login/signup)
@@ -28,7 +32,7 @@ Your project should include the following:
 - At least 6 route tests
 - Deployed
 
-Your project must also have a coherent theme. Some possible themes include:
+**Your project must also have a coherent theme.** Some possible themes include:
 
 - Pokedex app to keep track of Pokemon & Moves
 - Songs app to upload Songs & Albums
