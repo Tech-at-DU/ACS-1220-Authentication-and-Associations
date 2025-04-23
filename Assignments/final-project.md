@@ -30,7 +30,6 @@ Regardless, all students in this class MUST:
 - At least 6 routes (including login/signup)
 - Authentication flow
 - At least 6 route tests
-- Deployed
 
 **Your project must also have a coherent theme.** Some possible themes include:
 
