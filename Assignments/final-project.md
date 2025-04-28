@@ -54,7 +54,7 @@ The requirements for Phase 2 of the project are:
 
 - All routes must be fully implemented & run without errors.
 - All tests must pass and should test a substantial part of the page functionality.
-- Project should be deployed
+<!-- Project should be deployed -->
 
 ## Video Demo
 
